@@ -25,7 +25,7 @@
     "babel-preset-vue": "^2.0.2",
     "cross-env": "^5.0.5",
     "css-loader": "^3.6.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^9.0.3",
     "vue-loader": "^15.9.3",
     "vue-template-compiler": "^2.6.12",
